@@ -1,0 +1,1 @@
+Initializing a repository creates the file structure for storing metadata associated with git. 
