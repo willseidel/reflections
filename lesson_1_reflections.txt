@@ -1,0 +1,7 @@
+it highlights differences versus you having to keep both in mind and do the deltas yourself. I'd say the plusses and minuses were key.
+
+you could investigate different branches without throwing out your starting point.
+
+foolproof tracking of most changes versus fool-killable perfect tracking.
+
+Tracking multiple files per commit allows you a snapshot of an entire environment in time which is important when the files must interact. 
