@@ -1,1 +1,5 @@
-Initializing a repository creates the file structure for storing metadata associated with git. 
+Initializing a repository creates the file structure for storing metadata associated with git.
+
+staging area is a place to organize a group of files from your working directory before committing them to the repository. Without this you'd have to either list all files you want in a single commit command or commit one file at a time.
+
+Staging area can be used to make sure you have all files you want to commit ready to go.
